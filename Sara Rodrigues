@@ -1,0 +1,27 @@
+
+*Sara Rodrigues
+*Ola mundo/*
+*/
+console.log("ola mundo!");
+//prompt("Sara Rodrigues");
+
+//variaveis
+const variavelA = 100;
+const variavelB = variavelA + 50;
+console.log(variavelB);
+
+let numero = 50;
+console.log(numero);
+numero = 80
+console.log(numero);
+
+
+const nome = "Sara"
+const idade = 16
+
+console.log("Olá, meu nome é", nome, "e eu tenho", idade, "anos");
+let = "Sara"
+const sobrenome = "Rosrigues"
+let  = "16"
+const estudante =  "estudante"
+console.log("Olá, meu nome é", nome, sobrenome,  "e eu tenho", idade, "anos", "e sou", estudante)
